@@ -1,0 +1,905 @@
+{'index': 0, 'title': 'Good Time', 'audio_url': 'https://xy110x85x55x80xy.mcdn.bilivideo.cn:4483/upgcxcode/36/50/145665036/145665036-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504396&gen=playurlv2&os=mcdn&oi=1896835390&trid=0000afa74f0bc30b4b4ab9081b476aa4bd8eu&mid=0&platform=pc&upsig=f18d630689bbb09ac870cbf7897576ab&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&mcdnid=11000016&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8416&logo=A0000400', 'movie_url': 'https://xy110x85x55x80xy.mcdn.bilivideo.cn:4483/upgcxcode/36/50/145665036/145665036-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504396&gen=playurlv2&os=mcdn&oi=1896835390&trid=0000afa74f0bc30b4b4ab9081b476aa4bd8eu&mid=0&platform=pc&upsig=da020bf9dc1683482910c36ccb3421f9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&mcdnid=11000016&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=109706&logo=A0000400'}
+{'index': 1, 'title': '遥远的paradise', 'audio_url': 'https://upos-sz-estgoss.bilivideo.com/upgcxcode/52/16/144681652/144681652-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504396&gen=playurlv2&os=upos&oi=3028933978&trid=3b4451a99ec34cbf9d9f12a11de56fdcu&mid=0&platform=pc&upsig=be367438b4822646ce88c15e9ce599f3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8417&logo=80000000', 'movie_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/52/16/144681652/144681652-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504396&gen=playurlv2&os=08ctbv&oi=3028933978&trid=3b4451a99ec34cbf9d9f12a11de56fdcu&mid=0&platform=pc&upsig=356ecfa1f452ce0e30d6f84bd909499b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=107388&logo=80000000'}
+{'index': 2, 'title': '雾', 'audio_url': 'https://upos-sz-estgoss.bilivideo.com/upgcxcode/01/16/144681601/144681601-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504397&gen=playurlv2&os=upos&oi=1896835386&trid=5e5f97c6bedc4f57a71bb42ab10a8c63u&mid=0&platform=pc&upsig=19e96d4b1b294e5ec78651030a74f0f2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8433&logo=80000000', 'movie_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/01/16/144681601/144681601-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504397&gen=playurlv2&os=08ctbv&oi=1896835386&trid=5e5f97c6bedc4f57a71bb42ab10a8c63u&mid=0&platform=pc&upsig=1e8e89d307aba28975e13e7310c08723&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=109738&logo=80000000'}
+{'index': 3, 'title': '惊喜', 'audio_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/85/14/144681485/144681485-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504397&gen=playurlv2&os=08ctbv&oi=1896835162&trid=8adb810ed7dc423e8cf12bbe7c91617eu&mid=0&platform=pc&upsig=5f3f73cf1cd34c20d886836fbd7fd2bd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8442&logo=80000000', 'movie_url': 'https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/85/14/144681485/144681485-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504397&gen=playurlv2&os=cosbv&oi=1896835162&trid=8adb810ed7dc423e8cf12bbe7c91617eu&mid=0&platform=pc&upsig=1da5c36f31280349aa3b00054be3ab94&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=110163&logo=80000000'}
+{'index': 4, 'title': '忘记你', 'audio_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/53/15/144681553/144681553-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504398&gen=playurlv2&os=08ctbv&oi=2095238984&trid=a03f92a700194a8a9e5556f3d213f2b3u&mid=0&platform=pc&upsig=d8cd1711991e3b0eac086191c549249a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8437&logo=80000000', 'movie_url': 'https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/53/15/144681553/144681553-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504398&gen=playurlv2&os=cosbv&oi=2095238984&trid=a03f92a700194a8a9e5556f3d213f2b3u&mid=0&platform=pc&upsig=5e828c91a7bdf678f530add6314a243d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=109984&logo=80000000'}
+{'index': 5, 'title': '请将手放开', 'audio_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/25/15/144681525/144681525-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504398&gen=playurlv2&os=08ctbv&oi=3028932843&trid=3840841572254c35ba218cee1c44d75au&mid=0&platform=pc&upsig=06114286fa6084639ce2c9b7e4986e0a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8419&logo=80000000', 'movie_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/25/15/144681525/144681525-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504398&gen=playurlv2&os=08ctbv&oi=3028932843&trid=3840841572254c35ba218cee1c44d75au&mid=0&platform=pc&upsig=bb023a3bb0f1cb7f6dcad450516e3e00&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=109942&logo=80000000'}
+{'index': 6, 'title': '管我', 'audio_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/47/14/144681447/144681447-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504398&gen=playurlv2&os=08ctbv&oi=2095238984&trid=85cd424b7e31402baf26dc306bad7387u&mid=0&platform=pc&upsig=bae19d70237372976be4a1395dd0ecef&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8419&logo=80000000', 'movie_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/47/14/144681447/144681447-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504398&gen=playurlv2&os=08ctbv&oi=2095238984&trid=85cd424b7e31402baf26dc306bad7387u&mid=0&platform=pc&upsig=c2eb1d7eb7534ba9def2ff2c2267ac1a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=110080&logo=80000000'}
+{'index': 7, 'title': '不见不散', 'audio_url': 'https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/90/13/144681390/144681390-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504399&gen=playurlv2&os=cosbv&oi=2095238984&trid=a681277f83644a49904c9d4c0fc2f0cdu&mid=0&platform=pc&upsig=64a883cb8f767f79b705d3eae1261761&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8416&logo=80000000', 'movie_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/90/13/144681390/144681390-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504399&gen=playurlv2&os=08ctbv&oi=2095238984&trid=a681277f83644a49904c9d4c0fc2f0cdu&mid=0&platform=pc&upsig=a07bc18131980de8ef193c3c107f9b37&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=109930&logo=80000000'}
+{'index': 8, 'title': '想你', 'audio_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/27/99/144689927/144689927-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504399&gen=playurlv2&os=08ctbv&oi=2095238984&trid=6fecabf93d334d00aeb0075421244fbdu&mid=0&platform=pc&upsig=1baf4e9e483fa69d22036744ecdc95f4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8413&logo=80000000', 'movie_url': 'https://upos-sz-estgoss.bilivideo.com/upgcxcode/27/99/144689927/144689927-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504399&gen=playurlv2&os=upos&oi=2095238984&trid=6fecabf93d334d00aeb0075421244fbdu&mid=0&platform=pc&upsig=16104d4743dfb09cf69f35e735061d4d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=98370&logo=80000000'}
+{'index': 9, 'title': '一辈子陪我走', 'audio_url': 'https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/53/25/144732553/144732553-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504400&gen=playurlv2&os=cosbv&oi=2095238984&trid=2a96581faa5b4e8498d1d025a107df38u&mid=0&platform=pc&upsig=0a16a4a896d5255fc3b7597442c4d825&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8428&logo=80000000', 'movie_url': 'https://upos-sz-estgoss.bilivideo.com/upgcxcode/53/25/144732553/144732553-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504400&gen=playurlv2&os=upos&oi=2095238984&trid=2a96581faa5b4e8498d1d025a107df38u&mid=0&platform=pc&upsig=943fb996b1bfc60dbff768327dbfc973&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=100021&logo=80000000'}
+{'index': 10, 'title': '嘆息', 'audio_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/02/35/140683502/140683502-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504400&gen=playurlv2&os=08ctbv&oi=3028933034&trid=9770dc7f1f0f40f4bc4890125e5a570au&mid=0&platform=pc&upsig=5c283445ead4981186232bf9ea9786f7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8411&logo=80000000', 'movie_url': 'https://upos-sz-estgoss.bilivideo.com/upgcxcode/02/35/140683502/140683502-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504400&gen=playurlv2&os=upos&oi=3028933034&trid=9770dc7f1f0f40f4bc4890125e5a570au&mid=0&platform=pc&upsig=ca4a57ca2072f0a58581c02f7f1140ac&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=81280&logo=80000000'}
+{'index': 11, 'title': '醒你', 'audio_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/50/35/140683550/140683550-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504400&gen=playurlv2&os=08ctbv&oi=2095238984&trid=767618e0a96e4c82a8cdf9ed955b2749u&mid=0&platform=pc&upsig=09efc825546a09a7497960136298f816&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8397&logo=80000000', 'movie_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/50/35/140683550/140683550-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504400&gen=playurlv2&os=08ctbv&oi=2095238984&trid=767618e0a96e4c82a8cdf9ed955b2749u&mid=0&platform=pc&upsig=0097ef25286b368732cd9c1da5b6e055&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=73419&logo=80000000'}
+{'index': 12, 'title': '缺口', 'audio_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/12/36/140683612/140683612-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504401&gen=playurlv2&os=08ctbv&oi=2095238984&trid=5ab00ea3ae08492db5ae2ea1ca6da8a8u&mid=0&platform=pc&upsig=89bfc0749b1b74e5646e14a17066a9cf&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8399&logo=80000000', 'movie_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/12/36/140683612/140683612-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504401&gen=playurlv2&os=08ctbv&oi=2095238984&trid=5ab00ea3ae08492db5ae2ea1ca6da8a8u&mid=0&platform=pc&upsig=656a38ea73555fe5ae28b0aef8e0782a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=72638&logo=80000000'}
+{'index': 13, 'title': '教壞細路', 'audio_url': 'https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/22/36/140683622/140683622-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504401&gen=playurlv2&os=cosbv&oi=1896835391&trid=a5e9cb99c5634d62834e7c229a3c89c7u&mid=0&platform=pc&upsig=09363f851fbc8329afd112f2e1a5c4ee&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8398&logo=80000000', 'movie_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/22/36/140683622/140683622-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504401&gen=playurlv2&os=08ctbv&oi=1896835391&trid=a5e9cb99c5634d62834e7c229a3c89c7u&mid=0&platform=pc&upsig=1943dd707930644a3abdc99a953a3f6b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=62765&logo=80000000'}
+{'index': 14, 'title': '活著便精彩', 'audio_url': 'https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/37/36/140683637/140683637-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504402&gen=playurlv2&os=cosbv&oi=2095238984&trid=d4dac9074ea149c38c11e1d461dbe614u&mid=0&platform=pc&upsig=19b0a24d92906cee0eb28bb4f342f82b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8404&logo=80000000', 'movie_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/37/36/140683637/140683637-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504402&gen=playurlv2&os=08ctbv&oi=2095238984&trid=d4dac9074ea149c38c11e1d461dbe614u&mid=0&platform=pc&upsig=270cda44ab791c8e924e20de9426a03f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=51733&logo=80000000'}
+{'index': 15, 'title': 'LOVE OUR WAY', 'audio_url': 'https://upos-sz-estgoss.bilivideo.com/upgcxcode/59/36/140683659/140683659-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504402&gen=playurlv2&os=upos&oi=2095238984&trid=72b1e146c073493d9d7a35af0ac2ceb0u&mid=0&platform=pc&upsig=a2ab9a6c6831c35737c1f6486665d16e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=8408&logo=80000000', 'movie_url': 'https://upos-sz-mirror08ct.bilivideo.com/upgcxcode/59/36/140683659/140683659-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1666504402&gen=playurlv2&os=08ctbv&oi=2095238984&trid=72b1e146c073493d9d7a35af0ac2ceb0u&mid=0&platform=pc&upsig=d20114fab42ce891638be8cd03e1ff74&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=94035&logo=80000000'}
+
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:24.09, start: 0.000000, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:24.16, start: 0.000000, bitrate: 877 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], 3 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], q=2-31, 3 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 7917 fps=2997 q=-1.0 Lsize=   32564kB time=00:04:24.08 bitrate=1010.2kbits/s speed=100x    
+>--- 音视频合并成功 ---<
+Good Time 已经下载完成 --------
+video:28184kB audio:4051kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.019390%
+[aac @ 000001db367b2380] Qavg: 1744.049
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:24.23, start: 0.000000, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:24.83, start: 0.000000, bitrate: 856 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], 5 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], q=2-31, 5 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 7937 fps=2998 q=-1.0 Lsize=   31970kB time=00:04:24.73 bitrate= 989.3kbits/s speed=100x    
+video:27586kB audio:4053kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.044113%
+[aac @ 000001b59328e880] Qavg: 1978.421
+>--- 音视频合并成功 ---<
+遥远的paradise 已经下载完成 --------
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:05:37.96, start: 0.000000, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 0 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:05:38.17, start: 0.000000, bitrate: 877 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], 2 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], q=2-31, 2 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame=10135 fps=2886 q=-1.0 Lsize=   41821kB time=00:05:38.07 bitrate=1013.4kbits/s speed=96.3x    
+video:36095kB audio:5303kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.019952%
+[aac @ 0000028bd7da3d00] Qavg: 1286.317
+>--- 音视频合并成功 ---<
+雾 已经下载完成 --------
+>--- 该视频已经存在，不进行下载操作 ---<
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:05:08.97, start: 0.000000, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:05:09.61, start: 0.000000, bitrate: 878 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], 6 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], q=2-31, 6 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 9279 fps=2946 q=-1.0 Lsize=   38251kB time=00:05:09.50 bitrate=1012.4kbits/s speed=98.3x    
+video:33072kB audio:4792kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.019740%
+[aac @ 0000027eda4bc4c0] Qavg: 1158.888
+>--- 音视频合并成功 ---<
+忘记你 已经下载完成 --------
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:36.27, start: 0.000000, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:36.58, start: 0.000000, bitrate: 877 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], 5 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], q=2-31, 5 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 8289 fps=2911 q=-1.0 Lsize=   34148kB time=00:04:36.47 bitrate=1011.8kbits/s speed=97.1x    
+video:29528kB audio:4274kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.021156%
+[aac @ 000002530477e740] Qavg: 1621.055
+>--- 音视频合并成功 ---<
+请将手放开 已经下载完成 --------
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:43.29, start: 0.000000, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:43.95, start: 0.000000, bitrate: 877 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], 6 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], q=2-31, 6 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 8510 fps=2874 q=-1.0 Lsize=   35110kB time=00:04:43.85 bitrate=1013.3kbits/s speed=95.9x    
+>--- 音视频合并成功 ---<
+管我 已经下载完成 --------
+video:30316kB audio:4440kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.020000%
+[aac @ 000001a76bebe680] Qavg: 865.101
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:06:15.45, start: 0.000000, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 0 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:06:15.81, start: 0.000000, bitrate: 877 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], 6 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], q=2-31, 6 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame=11263 fps=2961 q=-1.0 Lsize=   46421kB time=00:06:15.70 bitrate=1012.2kbits/s speed=98.8x    
+video:40116kB audio:5836kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.020110%
+[aac @ 0000025abe7a6580] Qavg: 1022.469
+>--- 音视频合并成功 ---<
+不见不散 已经下载完成 --------
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:33.13, start: 0.000000, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:33.37, start: 0.000000, bitrate: 785 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], 5 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], q=2-31, 5 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 8193 fps=2932 q=-1.0 Lsize=   30680kB time=00:04:33.27 bitrate= 919.7kbits/s speed=97.8x    
+video:26123kB audio:4216kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.124048%
+[aac @ 000001cad29ae740] Qavg: 1739.382
+>--- 音视频合并成功 ---<
+想你 已经下载完成 --------
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:43.54, start: 0.000000, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:43.52, start: 0.000000, bitrate: 798 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], 4 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 720x480 [SAR 8:9 DAR 4:3], q=2-31, 4 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 8497 fps=3082 q=-1.0 Lsize=   32344kB time=00:04:43.54 bitrate= 934.5kbits/s speed= 103x    
+video:27536kB audio:4455kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.106150%
+[aac @ 000001b5c1e79440] Qavg: 227.572
+>--- 音视频合并成功 ---<
+一辈子陪我走 已经下载完成 --------
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:05:40.88, start: 0.063991, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 0 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:05:40.77, start: 0.000000, bitrate: 648 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], 5 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], q=2-31, 5 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame=10213 fps=3055 q=-1.0 Lsize=   32623kB time=00:05:40.84 bitrate= 784.1kbits/s speed= 102x    
+video:26859kB audio:5347kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.294443%
+[aac @ 00000267d44d94c0] Qavg: 406.174
+>--- 音视频合并成功 ---<
+嘆息 已经下载完成 --------
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:29.13, start: 0.063991, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:29.04, start: 0.000000, bitrate: 587 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], 9 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], q=2-31, 9 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 8063 fps=2885 q=-1.0 Lsize=   23752kB time=00:04:29.09 bitrate= 723.1kbits/s speed=96.3x    
+video:19186kB audio:4236kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.409926%
+[aac @ 000001cafbc0a180] Qavg: 340.266
+>--- 音视频合并成功 ---<
+醒你 已经下载完成 --------
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:03:43.06, start: 0.063991, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:03:42.96, start: 0.000000, bitrate: 578 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], 11 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], q=2-31, 11 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 6682 fps=3033 q=-1.0 Lsize=   19422kB time=00:03:43.02 bitrate= 713.4kbits/s speed= 101x    
+video:15664kB audio:3484kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.434010%
+[aac @ 0000021ef7c029c0] Qavg: 608.268
+>--- 音视频合并成功 ---<
+缺口 已经下载完成 --------
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:51.26, start: 0.063991, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:51.16, start: 0.000000, bitrate: 501 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], 5 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], q=2-31, 5 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 8726 fps=3052 q=-1.0 Lsize=   22579kB time=00:04:51.22 bitrate= 635.1kbits/s speed= 102x    
+video:17726kB audio:4495kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.610702%
+[aac @ 000001afd965e840] Qavg: 1399.713
+>--- 音视频合并成功 ---<
+教壞細路 已经下载完成 --------
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:24.34, start: 0.063991, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:24.23, start: 0.000000, bitrate: 413 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], 10 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], q=2-31, 10 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 7919 fps=3029 q=-1.0 Lsize=   17704kB time=00:04:24.31 bitrate= 548.7kbits/s speed= 101x    
+>--- 音视频合并成功 ---<
+活著便精彩 已经下载完成 --------
+video:13238kB audio:4141kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.867265%
+[aac @ 000001fd8e27c040] Qavg: 519.478
+tmp.mp3 已经下载完成 --------
+tmp.mp4 已经下载完成 --------
+ffmpeg -i ./data/movie/tmp.mp3 -i ./data/movie/tmp.mp4 -c:v copy -c:a aac -strict experimental ./data/movie/output.mp4
+ffmpeg version 4.3.2-2021-02-27-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 10.2.0 (Rev6, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-shared --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libzvbi --enable-librav1e --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libilbc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint
+  libavutil      56. 51.100 / 56. 51.100
+  libavcodec     58. 91.100 / 58. 91.100
+  libavformat    58. 45.100 / 58. 45.100
+  libavdevice    58. 10.100 / 58. 10.100
+  libavfilter     7. 85.100 /  7. 85.100
+  libswscale      5.  7.100 /  5.  7.100
+  libswresample   3.  7.100 /  3.  7.100
+  libpostproc    55.  7.100 / 55.  7.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp3':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:27.50, start: 0.063991, bitrate: 67 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 1 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from './data/movie/tmp.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    encoder         : Lavf57.71.100
+    description     : Packed by Bilibili XCoder v2.0.2
+  Duration: 00:04:27.40, start: 0.000000, bitrate: 751 kb/s
+    Stream #1:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], 8 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 59.94 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+Stream mapping:
+  Stream #1:0 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to './data/movie/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 1
+    compatible_brands: avc1iso5dsmsmsixdash
+    description     : Packed by Bilibili XCoder v2.0.2
+    encoder         : Lavf58.45.100
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 640x480 [SAR 1:1 DAR 4:3], q=2-31, 8 kb/s, 29.97 fps, 29.97 tbr, 16k tbn, 16k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      encoder         : Lavc58.91.100 aac
+frame= 8014 fps=3086 q=-1.0 Lsize=   28957kB time=00:04:27.47 bitrate= 886.9kbits/s speed= 103x    
+video:24418kB audio:4209kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.151510%
+[aac @ 000001c4f362e900] Qavg: 277.762
+>--- 音视频合并成功 ---<
+LOVE OUR WAY 已经下载完成 --------
+
+Process finished with exit code 0
