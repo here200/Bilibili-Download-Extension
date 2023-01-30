@@ -1,4 +1,4 @@
-from common.util import ky_requests, ky_jsons, ky_res, ky_etrees, ky_strings
+from common.util import ky_requests, ky_jsons, ky_res, ky_etrees
 
 
 # 获取用户的所有收藏夹信息
@@ -83,7 +83,7 @@ def get_title_href_by_one_movie(url, movie_lists, params=None, need_movie_url=Tr
     title = None
     if need_title:
         ky_etrees.html_cache = ky_etrees.generate_html_by_string(ky_res.cache)
-        title = ky_strings.remove_chars(ky_etrees.get_one_data_by_xpath('//title/text()'))
+        title = _remove_chars(ky_etrees.get_one_data_by_xpath('//title/text()'))
 
     movie_lists.append({
         "index": len(movie_lists),
@@ -104,6 +104,12 @@ def get_all_titles_by_one_movie(url):
     for t in titles:
         ret_lists.append({
             'index': len(ret_lists) + 1,
-            'title': ky_strings.remove_chars(t)
+            'title': _remove_chars(t)
         })
     return ret_lists
+
+
+def _remove_chars(string):
+    return string.replace('_哔哩哔哩_bilibili', ''). \
+        replace('/', '_'). \
+        replace('\\', '_')

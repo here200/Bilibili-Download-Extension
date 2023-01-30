@@ -1,4 +1,5 @@
 from common.lib import ky_bilibili
+from plus import tool
 
 
 # 根据一个视频链接，获取该视频链接下，所有的选集
@@ -16,6 +17,9 @@ def get_all_selections_by_one_movie(url):
         except Exception:
             continue
 
+    # 打印信息
+    tool.print_container_elements(ret_list)
+
     return ret_list
 
 
@@ -32,5 +36,8 @@ def get_all_audio_by_favorite(favorite):
             ret_lists[len(ret_lists)-1]["title"] = fl["title"]
         except Exception:
             continue
+
+    # 打印信息
+    tool.print_container_elements(ret_lists)
 
     return ret_lists

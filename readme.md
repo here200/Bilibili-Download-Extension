@@ -2,7 +2,7 @@
 
 原项目：[here200/Bilibili-Project: 有关Bilibili的项目 (github.com)](https://github.com/here200/Bilibili-Project)
 
-原项目的重构版本。易于使用，扩展性高。
+
 
 ### 功能
 
