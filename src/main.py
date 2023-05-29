@@ -15,4 +15,4 @@ if __name__ == '__main__':
 
     # 第三种方法
     favorites_map = usage2.get_all_audio_by_favorites("1598050455")
-    usage2.download_all_songs_by_favorites_map(favorites_map)
+    # usage2.download_all_songs_by_favorites_map(favorites_map)
