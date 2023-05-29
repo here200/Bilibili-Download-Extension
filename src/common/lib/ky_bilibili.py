@@ -57,6 +57,22 @@ def get_favorites_movie_lists(favorites):
     return ret_lists
 
 
+# 获取单个收藏夹的名称
+def get_favorite_name_by_favorite_id(favorite):
+    _url = 'https://api.bilibili.com/x/v3/fav/resource/list'
+    params = {
+        'media_id': favorite,
+        'ps': 20,
+        'pn': 1
+    }
+
+    tmp = ky_requests.decode_response(ky_requests.get(url=_url, params=params))
+    ky_jsons.cache = ky_jsons.json_string2python_object(tmp)
+    favorite_title = ky_jsons.get_one_data("$..data.info.title")
+
+    return favorite_title
+
+
 # 根据b站的av号生成链接
 def get_url_by_av_id(av_id):
     return "https://www.bilibili.com/video/av" + str(av_id)
